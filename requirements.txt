@@ -1,3 +1,5 @@
 python-dotenv
 pandas
 pytz
+gspread
+oauth2client

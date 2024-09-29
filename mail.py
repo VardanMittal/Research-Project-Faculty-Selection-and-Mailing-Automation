@@ -12,13 +12,12 @@ load_dotenv()
 sender_email = os.environ["SENDER"]
 Theme = "Autonomous Navigation and Robotics"
 password = os.environ["PASSWORD"]
-# receiver_email = "nskknk17@gmail.com"
 FILEPATH = "./docs/"
 
 
 def formatMail(receiver_email):
     message = MIMEMultipart("alternative")
-    message["Subject"] = f"Application for Remote Internship Opportunity in {Theme}(January - May 2024)"
+    message["Subject"] = f"Application for Remote Internship Opportunity in {Theme}(May 2025 to Aug 2025)"
     message["From"] = "Vardan Mittal"
     message["To"] = receiver_email
     part1 = MIMEText(content("text","Vardan Mittal", "Tal"), "plain")

@@ -2,7 +2,7 @@ def content(cat,by,to,college):
     content_text = f"""
 Dear {to},
 
-I hope this message finds you well. My name is Vardan Mittal, and I am an undergraduate student at the National Institute of Technology (NIT), Surat, India. I am writing to express my keen interest in the possibility of joining your esteemed research group at ETH Zurich for a research internship in the field of Machine Learning and Deep Learning, commencing in January 2024 and extending for a duration of 4 to 6 months.
+I hope this message finds you well. My name is Vardan Mittal, and I am an postgraduate student at the Indian Institute of Technology, Gandhinagar, India. I am writing to express my keen interest in the possibility of joining your esteemed research group at ETH Zurich for a research internship in the field of Machine Learning and Deep Learning, commencing in May 2025 and extending for a duration of 2 to 3 months.
 
 My journey into the world of machine learning and deep learning has been one filled with excitement and a fervent desire to contribute to innovative research endeavors. I have always been deeply passionate about the potential of these technologies to address complex real-world challenges. Over the years, I have honed my skills and knowledge, particularly in the domains of robotics, mechatronics, and computer vision.
 
